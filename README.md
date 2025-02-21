@@ -1,4 +1,10 @@
-NDVI from one camera
+# NDVI from One Camera
+
+Predict plant health and NDVI maps from a single camera via spectral imaging and a deep neural network.
+
+--------------------------------------------------------------------------------------------------
+
+CONTRIBUTORS:
 
 	Students:	
         Brian Rasmussen    u0788514@utah.edu
