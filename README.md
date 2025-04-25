@@ -18,6 +18,7 @@ CONTRIBUTORS:
 --------------------------------------------------------------------------------------------------
 
 CONTENT:
+
 	HARDWARE:
 		Directory containing information and notes used when collecting the dataset using the
 		two-camera system.
