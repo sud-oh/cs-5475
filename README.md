@@ -6,10 +6,8 @@ Predict plant health and NDVI maps from a single camera via spectral imaging and
 
 CONTRIBUTORS:
 
-	Students:	
-        Brian Rasmussen    u0788514@utah.edu
+	Student Authors:	
         Alexander Hulet    u1299427@utah.edu
-        Jacob Matcalf      u1437157@utah.edu
         
   	Mentor:	
         Al Ingold          a.ingold@utah.edu
@@ -20,46 +18,19 @@ CONTRIBUTORS:
 --------------------------------------------------------------------------------------------------
 
 CONTENT:
+	HARDWARE:
+		Directory containing information and notes used when collecting the dataset using the
+		two-camera system.
 
-	DATASET COLLECTION:
-		- PLACE HOLDER
+	DATASET PREPROCESSING:
+		Directory containing information and tools used to preprocess image dataset for model
+		before model training.
+
+		NOTE: Visually inspect the images after they have been aligned. When opencv cannot find
+		enough anchors it results in distorted images and bad data.
 		
 	MODEL TRAINING:
-		- PLACE HOLDER
-
+		Directory containing information and tools used for model training
+		
 --------------------------------------------------------------------------------------------------
 
-DATASET COLLECTION:
-
-	PLACE HOLDER
-
---------------------------------------------------------------------------------------------------
-
-INSTALLATION:
-
-	PLACE HOLDER
-
---------------------------------------------------------------------------------------------------
-
-USAGE:
-
-	PLACE HOLDER
- 
---------------------------------------------------------------------------------------------------
-
-MODEL TRAINING:
-
-	PLACE HOLDER
- 
---------------------------------------------------------------------------------------------------
-
-USAGE:
-
-	PLACE HOLDER
- 
---------------------------------------------------------------------------------------------------
-INSTALLATION:
-
-	PLACE HOLDER
-
---------------------------------------------------------------------------------------------------
